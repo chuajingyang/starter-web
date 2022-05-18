@@ -6,6 +6,8 @@ Adding a line for rebasing example.
 
 Then more changes from myfeature branch
 
+Updating for emergency fix after stash
+
 ## Purpose
 
 Sample website with plenty of files for demos
