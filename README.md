@@ -15,4 +15,4 @@ Sample website with plenty of files for demos
 Please fork this repository and then issue Pull Requests for review.
 
 ### Copyright
-Copyright notice here
+Copyright notice here. All rights reserved
